@@ -1,25 +1,8 @@
 #include <idDHT11.h>
 
-/****************************************************************************************
-  Video Q0060 - Módulos para Arduino - Sensor de Temperatura e Humidade DHT11
-  
-  Desenvolvido pela Fábrica de Programas - Brincando com Ideias (www.brincandocomideias.com)
-  www.youtube.com/c/BrincandoComIdeias
-
-  Autor Flavio Guimaraes  
-*****************************************************************************************/ 
-
-/*
-      	          int.0	  int.1	  int.2	  int.3	  int.4	  int.5
- Uno          	  2	      3
- Mega2560	        2	      3	      21	    20	    19	    18
- Leonardo	        3	      2	      0	      1
-*/
-
-//#include <idDHT11.h>
 
 int idDHT11pin = 2;       //Porta Digital do Arduino onde o Sinal do Sensor DHT esta conectado
-int idDHT11intNumber = 0; //Número da interrupção respectiva à porta definida no parametro anterior (veja tabela acima)
+int idDHT11intNumber = 0; //Número da interrupção respectiva à porta definida no parametro anterior 
 
 void dht11_wrapper();     // Declaração da funcão de controle da interrupção. 
 void loopDHT();           // Atualiza a leitura do sensor
