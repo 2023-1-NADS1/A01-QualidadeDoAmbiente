@@ -1,7 +1,7 @@
 # A01-QualidadeDoAmbiente
-# GRUPO - Sensor
+# GRUPO - Smart Senses
 
-# Integrantes: Alexandre Fontes(RA 22024181) Carol Gomes (RA 23024619), Luiz Carlos(RA 23024414), Nicolle Firminio (RA 22024078), Thiago Dias (RA ) 
+# Integrantes: Alexandre Fontes(RA 22024181) Carol Gomes (RA 23024619), Luiz Carlos(RA 23024414), Nicolle Firminio (RA 22024078), Thiago Dias (RA 22024208) 
 # Professores Orientadores: Professor:	Victor Bruno Alexander Rosetti de Quiroz, Adriano Felix Valente
 # Descrição do Projeto:
 O nosso projeto consiste em criar um sistema que
