@@ -1,4 +1,9 @@
 # A01-QualidadeDoAmbiente
+# GRUPO - Sensor
+
+# Integrantes: Alexandre Fontes(RA 22024181) Carol Gomes (RA 23024619), Luiz Carlos(RA 23024414), Nicolle Firminio (RA 22024078), Thiago Dias (RA ) 
+# Professores Orientadores: Professor:	Victor Bruno Alexander Rosetti de Quiroz, Adriano Felix Valente
+# Descrição do Projeto:
 O nosso projeto consiste em criar um sistema que
 seja capaz de medir a temperatura e a umidade do
 ar e apresente estes dados no smartphone em
